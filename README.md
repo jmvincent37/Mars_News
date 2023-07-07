@@ -1,4 +1,4 @@
-# Module 11 Challenge - NoSQL 
+# Module 12 Challenge - NoSQL 
 
 ### Summary:
 The assignment involves evaluating the ratings data of various establishments in the United Kingdom using a json file, MongoDB, and PyMongo. The goal is to assist a food magazine in analyzing the data and answering specific questions. The task is divided into three parts:
